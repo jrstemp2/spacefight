@@ -1,0 +1,9 @@
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\bin\Debug\SpaceFight.exe.config
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\bin\Debug\SpaceFight.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\bin\Debug\SpaceFight.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\obj\Debug\SpaceFight.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\obj\Debug\SpaceFight.Form1.resources
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\obj\Debug\SpaceFight.Properties.Resources.resources
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\obj\Debug\SpaceFight.csproj.GenerateResource.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\obj\Debug\SpaceFight.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\SpaceFight\SpaceFight\obj\Debug\SpaceFight.pdb
